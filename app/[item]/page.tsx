@@ -1,5 +1,5 @@
 export default function Product() {
   return (
-    <p>HI!!!</p>
+    <p>Hi! I am a product page</p>
   )
 }
